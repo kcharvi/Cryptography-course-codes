@@ -8,4 +8,4 @@
 
 > Public Key Cryptography: Public key cryptography: RSA Cryptosystem, Rabin Cryptosystem, ElGamal Cryptosystem, Elliptic curve cryptosystems (ECC).
 
-[image] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icao.int%2FSecurity%2FFAL%2FPKD%2FBVRT%2FPages%2FBasics.aspx&psig=AOvVaw3auVwkU7NlbaBwAv6YxvFc&ust=1642096481659000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjAn6nkrPUCFQAAAAAdAAAAABAD)
+[image] (https://github.com/kcharvi/Cryptography-course-codes/blob/main/image.png)
